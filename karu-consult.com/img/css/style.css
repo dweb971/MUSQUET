@@ -1,0 +1,36 @@
+/*STYLE DU PROTOTYPE*/
+
+h1{
+    color: #ff8400;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: white;
+    background-color: #ff8400;
+}
+a.active {
+font-weight: bold;
+}
+div.container div.row div.col-2 >img {
+    width: 32px;
+    height: 32px;
+}
+div.container div.row div.col-12 > img {
+ max-width: 100%;
+ height: auto;
+ margin-left: 60px;  
+}
+ul.nav li ul{
+   margin-left: 40px;
+   list-style: none;
+}
+
+ul.nav li > ul li a:hover {
+background-color: blue;
+}
+div.container div.row div.col-10 > img {
+    width: 480px;
+    margin-left: 25%;
+}

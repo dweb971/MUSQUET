@@ -28,7 +28,7 @@ header div:first-child{
 }
 header div:first-child > img {
     width: 250px;
-    height: 100px;
+    height: 150px;
     display: block;
 }
 header div:last-child > img {
@@ -140,7 +140,26 @@ alert{
 
 
 
-
+/*CALENDRIER*/
+table.table {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+table.table tr th {
+    width: 101px;
+    background-color: #6790a1;
+}
+table.table tbody tr td:hover{
+    background-color: #fcbbcf;
+}
+.date_jour {
+    background-color: grey;
+    font-weight: bold;
+}
+.width {
+    width: 88px;
+}
 
 
 
