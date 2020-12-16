@@ -1,0 +1,16 @@
+/*Feuille de style*/
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    writing-mode: vertical-rl;
+  }
+  head{
+      border-color: purple;
+  }
+ div.col-3{
+     border: red
+ }
+  h2{
+    font-weight: bold;
+  }
