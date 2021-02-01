@@ -1,0 +1,14 @@
+/*Feuille de style*/
+
+body{
+    display: flex;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+h1{
+    font-weight: bold;
+    size: 15px;
+}
+input{
+    margin-bottom: 25px;
+}
