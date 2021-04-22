@@ -164,3 +164,17 @@ body {
     bottom:  calc((var(--triangle) - 2px) * -1);
     left: calc((var(--triangle) - 5px) * -1);
   }
+  .ign{
+    margin-left:  165px;
+    
+}
+.ingre{
+    margin-left: 165px;
+}
+.form-control{
+    margin-left: 70px;
+    text-align: center;
+    height: 50px;
+    width: 400px;
+    margin-top: 20px;
+}

@@ -23,7 +23,7 @@
         <header>
   <div class="ico"><i>icon1</i><i>icon2</i></div>
   <div class="navlinks">
-    <a href="recette.php" title="recettes"  class="Les recettes">Recettes</a>
+    <a href="recette-petitdej.php" title="Petit déjeuner"  class="Les recettes">Recettes</a>
     <div>
       <a href="menu.php" title="menu"  class="mnu">Menus</a>
       <h1 class="navlinks h1">RESTHOME</h1>
@@ -34,7 +34,7 @@
 
 <div class="banniere">
   <h2>
-    RECETTES DÉJEUNER
+    RECETTES PETIT  DÉJEUNER
   </h2>
   <div>
     <div class="left">
@@ -60,10 +60,10 @@
     <form>
   <div class="row">
     <div class="col-6">
-    <a href="lasagne.php" title="Lasagnes"  class="form-control">Lasagnes</a>
+    <a href="pancake.php" title=""  class="form-control">pancake</a>
     </div>
     <div class="col-6">
-    <a href="dombrecrevette.php" title="dombré et crevette"  class="form-control">Dombré et crevette</a>
+    <a href="painperdu.php" title="Pain perdu à la vanille"  class="form-control">Pain perdu à la vanille</a>
     </div>
   </div>
 </form>
@@ -72,10 +72,10 @@
     <form>
   <div class="row">
     <div class="col-6">
-    <a href="gratindauphinois.php" title="Gratin dauphinois"  class="form-control">Gratin dauphinois</a>
+    <a href="saladedefruit.php" title="Salade de fruit"  class="form-control">Salade de fruits</a>
     </div>
     <div class="col-6">
-    <a href="rizetcolombo.php" title="Riz et colombo de cabrit"  class="form-control">Riz et colombo de cabrit</a>
+    <a href="polkachoco.php" title="Polka au chocolat"  class="form-control">Polka au chocolat</a>
     </div>
   </div>
 </form>

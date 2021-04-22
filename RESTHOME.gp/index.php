@@ -31,9 +31,10 @@
   </div>
 </header>
 
+
 <div class="banniere">
   <h2>
-    test
+    MENUS
   </h2>
   <div>
     <div class="left">
@@ -49,20 +50,14 @@
     </div>
   </div>
 </div>
-        </div>
-    </div>
-</div>
-    <title>RESTHOME</title>
-</head>
 
-<body>
-    
-
-    <div class="container">
+<div class="container">
       <div class="row">
         <div class="col-8">
-        <button class="btnptj" type="button" class="btn btn-primary btn-lg btn-block">Petit déjeuner</button>
-        <button class="djn" type="button" class="btn btn-primary btn-lg btn-block">Déjeuner</button>
+            <a href="menu.php"> <button class="btnptj" type="button" class="btn btn-primary btn-lg btn-block">Dimanche 3 Novembre 2019</button></a>
+           
+             <a href="menu.php" ><button class="djn" type="button" class="btn btn-primary btn-lg btn-block">Lundi 4 Novembre 2019</button> </a>
+    
         </div>
         <div class="col-4">
           
@@ -73,18 +68,16 @@
     <div class="container">
         <div class="row">
             <div class="col-8">
-            <button class="dnr" type="button" class="btn btn-primary btn-lg btn-block">Diner</button>
-            <button class="ecs" type="button" class="btn btn-primary btn-lg btn-block">Encas</button>
+                <a href="index.php"><button class="dnr" type="button" class="btn btn-primary btn-lg btn-block">Mardi 5 Novembre 2019</button></a>
+            
+                <a href="index.php"><button class="ecs" type="button" class="btn btn-primary btn-lg btn-block">Mercredi 6 Novembre 2019</button></a>
+            
             </div>
             <div class="col-4">
 
             </div>
         </div>
     </div>
-
-
-
-
 
 
 

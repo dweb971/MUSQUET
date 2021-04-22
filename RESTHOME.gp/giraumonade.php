@@ -32,7 +32,7 @@
 </header>
 <div class="banniere">
   <h2>
-   MENU
+GIRAUMONADE
   </h2>
   <div>
     <div class="left">
@@ -52,32 +52,85 @@
     </div>
 </div>
     <title>RESTHOME</title>
-
-
-
-
-
+</head>
+<body>
 <div class="container">
-      <div class="row">
-        <div class="col-8">
-        <a href="recette-petitdej.php"><button class="btnptj" type="button" class="btn btn-primary btn-lg btn-block">Petit déjeuner</button></a>
-        <a href="recette.php"><button  class="djn" type="button" class="btn btn-primary btn-lg btn-block">Déjeuner</button></a>
-        
+    <div class="row">
+        <div class="col-6">
+            <img src="https://p7.storage.canalblog.com/70/12/857036/66829254_p.jpg" alt="Riz et colombo de cabrit">
         </div>
-        <div class="col-4">
+      <div class="col-6">
+          <h2 class="ign">INGREDIENTS</h2>
+          <p class="ingre">
+<ol>
+    <li>
+    poivre
+    </li>
+    <li>
+    sel
+    </li>
+    <li>
+    5 cuillères à soupe huile
+    </li>
+    <li>
+    2 cuillères à café rases thym
+    </li>
+    <li>
+    3 branches persil
+    </li>
+    <li>
+    3 gousses ail
+    </li>
+    <li>
+    1 giromon
+    </li>
+    <li>
+    1 oignon
+    </li>
+</ol>
           
-        </div>
+
+</p>
       </div>
     </div>
+    <div class="row">
+        <div class="col-6">
+        <p>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-8">
-           <a href="recette-diner.php"> <button class="dnr" type="button" class="btn btn-primary btn-lg btn-block">Diner</button></a>
-            <a href="recette-encas.php"><button class="ecs" type="button" class="btn btn-primary btn-lg btn-block">Encas</button></a>
-            </div>
-            <div class="col-4">
-
-            </div>
-        </div>
+<ol>
+    <li>
+    Hacher l'ail, le persil et l'oignon finement. 
+</li>
+    <li>
+    Faire des tranches de 4 cm de large dans le giraumon.
+ </li>
+    <li>
+    Éplucher chaque tranche et enlever les graines.
+    </li>
+    <li>
+    Découper chaque tranche en lamelles de 0.5 cm d'épaisseu
+    </li>
+    <li>
+    Dans un fait tout, faire revenir le giraumon avec l'huile.
+    </li>
+    <li>
+    Y ajouter le sel, l'ail, l'oignon, le persil, le thym et le poivre.
+    </li>
+    <li>
+    Laisser fondre doucement 30 minutes sur un feu moyen tout en remuant régulièrement.
+    </li>
+    <li>
+    Ajoutez si besoin de l'eau pour éviter que cela attache.
+    </li>
+    <li>
+    Remuez jusqu'à obtention d'une purée grossière c'est prêt. Plus ou moins fondu selon les goûts !
+    </li>
+</ol>
+       
+</p>
+</div>
     </div>
+</div>
+
+    
+</body>

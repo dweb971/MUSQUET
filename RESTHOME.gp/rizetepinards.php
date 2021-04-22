@@ -32,7 +32,7 @@
 </header>
 <div class="banniere">
   <h2>
-   MENU
+  RIZ AUX ÉPINARDS
   </h2>
   <div>
     <div class="left">
@@ -52,32 +52,72 @@
     </div>
 </div>
     <title>RESTHOME</title>
-
-
-
-
-
+</head>
+<body>
 <div class="container">
-      <div class="row">
-        <div class="col-8">
-        <a href="recette-petitdej.php"><button class="btnptj" type="button" class="btn btn-primary btn-lg btn-block">Petit déjeuner</button></a>
-        <a href="recette.php"><button  class="djn" type="button" class="btn btn-primary btn-lg btn-block">Déjeuner</button></a>
-        
+    <div class="row">
+        <div class="col-6">
+            <img src="https://www.toques2cuisine.com/wp-content/uploads/2010/09/RISOTTO-AUX-EPINARDS-755.jpg" alt="Riz aux épinards">
         </div>
-        <div class="col-4">
+      <div class="col-6">
+          <h2 class="ign">INGREDIENTS</h2>
+          <p class="ingre">
+<ol>
+    <li>
+    1/2
+cube de bouillon
+    </li>
+    <li>
+    huile
+    </li>
+    <li>
+    200 g riz
+    </li>
+    <li>
+    1/4 d'oignon soit 35g
+    </li>
+    <li>
+    500 g épinards frais
+    </li>
+    <li>
+    1 oignon
+    </li>
+    <li>
+    1 feuille de laurier
+    </li>
+   
+</ol>
           
-        </div>
+
+</p>
       </div>
     </div>
+    <div class="row">
+        <div class="col-6">
+        <p>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-8">
-           <a href="recette-diner.php"> <button class="dnr" type="button" class="btn btn-primary btn-lg btn-block">Diner</button></a>
-            <a href="recette-encas.php"><button class="ecs" type="button" class="btn btn-primary btn-lg btn-block">Encas</button></a>
-            </div>
-            <div class="col-4">
-
-            </div>
-        </div>
+<ol>
+    <li>
+    Laver les épinards puis les couper en lamelles.
+    </li>
+    <li>
+    Faire revenir dans une marmite l'oignon avec de l'huile (de votre choix), puis ajouter les épinards, la feuille de laurier et le cube (une fois l'oignon rissolé).
+    </li>
+    <li>
+    Réduire les épinards en bouillie en les cuisant à feu moyen. De temps à autre, ajouter 1 ou 2 cuillères à soupe d'eau pour éviter que les épinards ne collent au fond de la marmite.
+    </li>
+    <li>
+    Lorsque les épinards sont presque en purée, ajouter le riz et le recouvrir d'eau (environ 2 cm).
+    </li>
+    <li>
+    Laisser cuire à feu doux (20 mn), en remuant de temps à autre (de préférence avec une spatule).
+    </li>
+</ol>
+       
+</p>
+</div>
     </div>
+</div>
+
+    
+</body>

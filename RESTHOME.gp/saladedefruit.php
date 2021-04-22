@@ -32,7 +32,7 @@
 </header>
 <div class="banniere">
   <h2>
-   MENU
+ SALADE DE FRUITS
   </h2>
   <div>
     <div class="left">
@@ -52,32 +52,77 @@
     </div>
 </div>
     <title>RESTHOME</title>
-
-
-
-
-
+</head>
+<body>
 <div class="container">
-      <div class="row">
-        <div class="col-8">
-        <a href="recette-petitdej.php"><button class="btnptj" type="button" class="btn btn-primary btn-lg btn-block">Petit déjeuner</button></a>
-        <a href="recette.php"><button  class="djn" type="button" class="btn btn-primary btn-lg btn-block">Déjeuner</button></a>
-        
+    <div class="row">
+        <div class="col-6">
+            <img src="https://ileauxepices.com/blog/wp-content/uploads/2013/01/salade-de-fruits-aux-%c3%a9pices.jpg" alt="Salade de fruits">
         </div>
-        <div class="col-4">
+      <div class="col-6">
+          <h2 class="ign">INGREDIENTS</h2>
+          <p class="ingre">
+<ol>
+    <li>
+   1 orange
+    </li>
+    <li>
+   1 banane
+    </li>
+    <li>
+    1 pomme
+    </li>
+    <li>
+    1 pamplemousse
+    </li>
+    <li>
+    1 jus de citron
+    </li>
+      <li>
+          Fruits confits et raisins secs
+      </li>
+      <li>
+          pêche,prune
+      </li>
+      <li>
+          sucre
+      </li>
+      <li>
+          1 petit verre de rhum ou kirsch
+      </li>
+</ol>
           
-        </div>
+
+</p>
       </div>
     </div>
+    <div class="row">
+        <div class="col-6">
+        <p>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-8">
-           <a href="recette-diner.php"> <button class="dnr" type="button" class="btn btn-primary btn-lg btn-block">Diner</button></a>
-            <a href="recette-encas.php"><button class="ecs" type="button" class="btn btn-primary btn-lg btn-block">Encas</button></a>
-            </div>
-            <div class="col-4">
-
-            </div>
-        </div>
+<ol>
+<li>
+   Laver,éplucher les fruits de votre choix
+    </li>
+    <li>
+    Couper les fruits en tranches et en petits dés puis les ajouter au saladier...
+    </li>
+    <li>
+    Il ne faut pas tourner la salade pour ne pas écraser les fruits
+    </li>
+    <li>
+    Sucrer et ajouter éventuellement un petit verre de rhum ou du kirsch selon son goût
+    </li>
+    <li>
+    Laisser macérer au frais pendant 3 à 4 h.
+    </li>
+    
+</ol>
+       
+</p>
+</div>
     </div>
+</div>
+
+    
+</body>

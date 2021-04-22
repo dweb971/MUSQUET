@@ -32,7 +32,7 @@
 </header>
 <div class="banniere">
   <h2>
-   MENU
+  DOMBRÉ ET CREVETTE
   </h2>
   <div>
     <div class="left">
@@ -52,32 +52,55 @@
     </div>
 </div>
     <title>RESTHOME</title>
-
-
-
-
-
+</head>
+<body>
 <div class="container">
-      <div class="row">
-        <div class="col-8">
-        <a href="recette-petitdej.php"><button class="btnptj" type="button" class="btn btn-primary btn-lg btn-block">Petit déjeuner</button></a>
-        <a href="recette.php"><button  class="djn" type="button" class="btn btn-primary btn-lg btn-block">Déjeuner</button></a>
-        
+    <div class="row">
+        <div class="col-6">
+            <img src="https://assets.afcdn.com/recipe/20210112/117152_w600.jpg" alt="Dombré et crevette">
         </div>
-        <div class="col-4">
-          
-        </div>
+      <div class="col-6">
+          <h2 class="ign">INGREDIENTS</h2>
+          <p class="ingre">
+-1 gousse ail <br>
+-sel <br>
+-Poivre <br>
+-1 cuillère à café <br>
+-3 cuillères à soupe huile de tournesol <br>
+-500g de farine <br>
+-800g Crevette fraiches <br>
+-1 grande tomates pelées <br>
+-1 oignon 
+
+</p>
       </div>
     </div>
-
-    <div class="container">
-        <div class="row">
-            <div class="col-8">
-           <a href="recette-diner.php"> <button class="dnr" type="button" class="btn btn-primary btn-lg btn-block">Diner</button></a>
-            <a href="recette-encas.php"><button class="ecs" type="button" class="btn btn-primary btn-lg btn-block">Encas</button></a>
-            </div>
-            <div class="col-4">
-
-            </div>
-        </div>
+    <div class="row">
+        <div class="col-6">
+  
+<ol>
+    <li>
+    Verser dans un grand bol la farine. Creuser un puits au milieu et ajouter l'eau. Recouvrir avec la farine, puis malaxer avec les mains, jusqu'à l'obtention d'une pâte qui ne colle pas et qui n'est pas trop farineuse. 
+    </li>
+    <li>
+    Avec cette pâte, former de petites boules.
+    </li>
+    <li>
+    Couper les oignons et l'ail.
+    </li>
+    <li>
+    Dans une grande marmite, mettre l'huile à chauffer et ajouter les oignons et l'ail. Verser la boite de tomates pelées avec les crevettes, ajouter le concentré le tomates et le roucou, saler, poivrer. 
+    </li>
+    <li>
+    Ajouter de l'eau à hauteur des crevettes, laisser bouillir puis ajouter vos boules et laisser cuire 30 minutes.
+    </li>
+    <li>
+    Si la sauce devient trop epaisse, ajouter de l'eau.
+    </li>
+</ol>
+</div>
     </div>
+</div>
+
+    
+</body>

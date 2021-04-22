@@ -22,7 +22,7 @@
         <header>
   <div class="ico"><i>icon1</i><i>icon2</i></div>
   <div class="navlinks">
-    <a href="recette.php" title="recettes"  class="Les recettes">Recettes</a>
+    <a href="recette-diner.php" title="recettes"  class="Les recettes">Recettes</a>
     <div>
       <a href="menu.php" title="menu"  class="mnu">Menus</a>
       <h1 class="navlinks h1">RESTHOME</h1>
@@ -32,7 +32,7 @@
 </header>
 <div class="banniere">
   <h2>
-   MENU
+  SOUPE DE TOMATES
   </h2>
   <div>
     <div class="left">
@@ -52,32 +52,58 @@
     </div>
 </div>
     <title>RESTHOME</title>
-
-
-
-
-
+</head>
+<body>
 <div class="container">
-      <div class="row">
-        <div class="col-8">
-        <a href="recette-petitdej.php"><button class="btnptj" type="button" class="btn btn-primary btn-lg btn-block">Petit déjeuner</button></a>
-        <a href="recette.php"><button  class="djn" type="button" class="btn btn-primary btn-lg btn-block">Déjeuner</button></a>
-        
+    <div class="row">
+        <div class="col-6">
+            <img src="https://www.mangezplus.com/wp-content/uploads/2016/06/recette-de-soupe-de-tomates-maison-500x474.jpg" alt="Soupe de tomates">
         </div>
-        <div class="col-4">
+      <div class="col-6">
+          <h2 class="ign">INGREDIENTS</h2>
+          <p class="ingre">
+<ol>
+    <li>
+    1 kg de tomates 
+    </li>
+    <li>
+    2 gousses d'ail 
+    </li>
+    <li>
+    2 c. à soupe de crème fraîche allégée à 5% de MG
+    </li>
+    <li>
+    1 oignon 
+    </li>
+    <li>
+    1 c. à soupe d'huile d'olive
+    </li>
+    <li>
+    sel, poivre 
+    </li>
+</ol>
           
-        </div>
+
+</p>
       </div>
     </div>
+    <div class="row">
+        <div class="col-6">
+        <p>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-8">
-           <a href="recette-diner.php"> <button class="dnr" type="button" class="btn btn-primary btn-lg btn-block">Diner</button></a>
-            <a href="recette-encas.php"><button class="ecs" type="button" class="btn btn-primary btn-lg btn-block">Encas</button></a>
-            </div>
-            <div class="col-4">
-
-            </div>
-        </div>
+<ol>
+    <li>
+    Pelez et émincer l'oignon et l'ail puis faites-les revenir 2 min à la poêle dans une c. à soupe d'huile d'olive. Lavez les tomates et coupez-les en morceaux.
+    </li>
+    <li>
+    Dans une casserole, mettez les morceaux de tomates et 1 l d'eau. Salez et poivrez. Après ébullition, comptez 15 min de cuisson. Ensuite, ajoutez l'oignon et l'ail puis mixez le tout. Pour plus d'homogénéité et d'onctuosité, passez le mélange au chinois puis remettez-le sur feu doux quelques min après y avoir ajouté 2 c. à soupe de crème. Servez.
+    </li>
+</ol>
+       
+</p>
+</div>
     </div>
+</div>
+
+    
+</body>
