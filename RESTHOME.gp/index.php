@@ -50,13 +50,30 @@
     </div>
   </div>
 </div>
+<?php 
+setlocale(LC_TIME, 'fr_FR');
+date_default_timezone_set('America/Guadeloupe');
+//echo utf8_encode(strftime('%A %d %B %Y'));
+//echo date('m-d-Y', strtotime('+15 days'));
 
+//echo date('l d F Y');  // jeudi 22 avril 2021
+
+//echo date('l d F Y'); 
+// echo date('d-m-Y', strtotime('+7 days'));
+
+
+
+for($i=0; $i < 6; $i++){
+?>
 <div class="container">
       <div class="row">
         <div class="col-8">
-            <a href="menu.php"> <button class="btnptj" type="button" class="btn btn-primary btn-lg btn-block">Dimanche 3 Novembre 2019</button></a>
-           
-             <a href="menu.php" ><button class="djn" type="button" class="btn btn-primary btn-lg btn-block">Lundi 4 Novembre 2019</button> </a>
+            <a href="menu.php"> 
+              <button class="btnptj" type="button" class="btn btn-primary btn-lg btn-block">
+              <?php echo date('l d F Y', strtotime("+ $i days"));    ?>               
+
+            </button></a>
+          
     
         </div>
         <div class="col-4">
@@ -64,21 +81,13 @@
         </div>
       </div>
     </div>
+<?php
+}
 
-    <div class="container">
-        <div class="row">
-            <div class="col-8">
-                <a href="index.php"><button class="dnr" type="button" class="btn btn-primary btn-lg btn-block">Mardi 5 Novembre 2019</button></a>
-            
-                <a href="index.php"><button class="ecs" type="button" class="btn btn-primary btn-lg btn-block">Mercredi 6 Novembre 2019</button></a>
-            
-            </div>
-            <div class="col-4">
 
-            </div>
-        </div>
-    </div>
 
+?>
+    
 
 
 

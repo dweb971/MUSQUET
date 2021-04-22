@@ -65,31 +65,31 @@
 <ol>
     <li>
    1 orange
-    </li>
+    </li><br>
     <li>
    1 banane
-    </li>
+    </li><br>
     <li>
     1 pomme
-    </li>
+    </li><br>
     <li>
     1 pamplemousse
-    </li>
+    </li><br>
     <li>
     1 jus de citron
-    </li>
+    </li><br>
       <li>
           Fruits confits et raisins secs
-      </li>
+      </li><br>
       <li>
           pêche,prune
-      </li>
+      </li><br>
       <li>
           sucre
-      </li>
+      </li><br>
       <li>
           1 petit verre de rhum ou kirsch
-      </li>
+      </li><br>
 </ol>
           
 
